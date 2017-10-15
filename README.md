@@ -1,4 +1,4 @@
-# Design-Patterns
+  Loja Xingu
 
 
 O Projeto desenvolvido foi um sistema de moedas , onde é possível comprar xingu moedas que a partir da aquisição podem ser gasta em diversas lojas do brasil. Para realizar a compra e necessário informar o nome, a quantidade moedas e o numero do cartão, após as informações básicas e necessário escolher a forma de pagamento onde temos Débito em conta e Cartão de Credito , caso débito em conta seja selecionada deve se informar o nome do Banco e em seguida a Agência, se o método de pagamento selecionado foi cartão de crédito tem que  informar a data de validade do cartão e o código CSV.
